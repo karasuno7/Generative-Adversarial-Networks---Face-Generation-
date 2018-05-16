@@ -17,6 +17,3 @@ I first test the GAN on the MNIST dataset to generate new handwritten digits. Th
 
 The GAN is built on TensorFlow, written in Python 3 and is presented via Jupyter Notebook. Trained via # FloydHub gpu# instance.
 
-Below is an example of some faces my GAN was able to generate.
-
-![GAN generated faces](/
